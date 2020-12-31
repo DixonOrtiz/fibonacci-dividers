@@ -4,7 +4,7 @@
 
 ### Clone Repository
 
-`git clone https://github.com/DixonOrtiz/palindrome-script`
+`git clone https://github.com/DixonOrtiz/fibonacci-dividers`
 
 ### Run with node
 
